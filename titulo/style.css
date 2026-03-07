@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding: 100px;
+}
+.root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+button{
+    display: flex;
+    height: 100px;
+    width: 250x;
+    font-size: medium;
+    align-items: center;
+    border-radius: 25px;
+}
+.azul{
+    color: blue;
+}
