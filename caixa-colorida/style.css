@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    display: flex;
+    height: 100px;
+    width: 250x;
+    font-size: medium;
+    align-items: center;
+    border-radius: 25px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+}
